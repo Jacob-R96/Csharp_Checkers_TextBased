@@ -36,5 +36,5 @@ For my methods KingMovement, RedMovement, and BlackMovement
 
   If Switch is true and doublejumpswitch is false, the Clearlegals method is called, and the radio button and boolKingCheck are updated based on the Colorr value.
  
- Clear Legal method reset the board of any illegal object, and movements. Right before giving the next player turn. 
+ Clear Legal method reset the board of any illegal objects, and movements. Right before giving the next player turn. 
 
